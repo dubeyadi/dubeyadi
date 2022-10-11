@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dubeyadi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m ADITYA DUBEY
+- 👀 I’m interested in ANDROID DEVELOPMENT
+- 🌱 I’m currently learning ANDROID 
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/aditya-dubey-63a925202/
 
 <!---
 dubeyadi/dubeyadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
